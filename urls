@@ -1,0 +1,105 @@
+http://www.jianshu.com/p/5ad013eb5364?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+http://www.jianshu.com/p/415a32976cc6 Android开发之Activity转场动画
+http://blog.csdn.net/guolin_blog/article/details/47028975 Android Context完全解析，你所不知道的Context的各种细节
+http://www.androidchina.net/5384.html 移动客户端中高效使用 SQLite
+https://yq.aliyun.com/articles/67264?spm=5176.8246799.0.0.fhATwk 四件套，让PPT演示更带感
+http://www.open-open.com/lib/view/open1328069889514.html Git详解之三 Git分支
+
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0418/4158.html 关于 Android 进程保活，你所需要知道的一切
+ 
+Android使用Fragment来实现ViewPager的功能 http://www.cnblogs.com/tiantianbyconan/p/3364728.html
+http://blog.csdn.net/loongggdroid/article/details/9385535 Android中ListView下拉刷新的实现
+http://blog.csdn.net/u012124438
+
+https://www.tuicool.com/articles/MjAjIfU 使用WindowManager添加View——悬浮窗口的基本原理
+
+http://blog.csdn.net/liuqinqpiaoyi/article/details/78426684  Android 7. 1 DeskClock（一）AlarmClockFragment分析
+
+http://blog.csdn.net/mydeman/article/details/1800636 Reg
+
+http://www.cnblogs.com/xirihanlin/archive/2009/10/15/1584178.html 追踪和确认SMS消息传递
+https://group.cnblogs.com/topic/49026.html  SmsManager发短信
+http://www.cnblogs.com/jimwind/archive/2012/09/11/2679810.html Android 源码阅读之SMS
+
+https://www.jianshu.com/p/0af52be90ae6
+http://blog.csdn.net/wuyuxing24/article/details/78857912 Transition
+http://qkxue.net/info/153431/Innost-Android-ViewRoot 跟着Innost理解下Android控件（ViewRoot）系统
+http://gityuan.com/2017/04/16/activity-with-window/ 简述Activity与Window关系
+http://www.cnblogs.com/xiaoweiz/p/3803301.html KeyEvent
+http://www.cnblogs.com/xiaoweiz/p/3733272.html SharedPreference
+http://www.viseator.com/2017/10/07/android_view_event_2/ TouchEvent
+
+https://zhuanlan.zhihu.com/p/21995633 [Android技术专题]自定义View
+http://blog.csdn.net/lmj623565791/article/category/2680591 自定义控件 Hongyang
+https://www.jianshu.com/p/1dab927b2f36 自定义View Measure过程 - 最易懂的自定义View原理系列
+http://blog.csdn.net/dmk877/article/details/49734869/ Android开发之getMeasuredWidth和getWidth区别从源码分析
+http://blog.csdn.net/lfdfhl/article/details/51671038 推翻自己和过往，重学自定义View
+http://blog.csdn.net/luoshengyang/article/details/8372924 Android应用程序窗口（Activity）的测量（Measure）、布局（Layout）和绘制（Draw）过程分析
+
+https://www.jianshu.com/u/6e4c6553a7f9 stay4it
+
+http://flavienlaurent.com/blog/2014/01/31/spans/ span
+https://segmentfault.com/a/1190000006186341
+https://segmentfault.com/u/remcarpediem
+
+http://www.cnblogs.com/xinmengwuheng/p/6037858.html View的三次measure,两次layout和一次draw
+
+http://www.curious-creature.com/docs/android-performance-case-study-1.html
+
+https://rxjava.yuxingxin.com/index.html
+
+http://ztelur.github.io/
+https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
+
+http://blog.csdn.net/yin1031468524/article/details/71512996 Android 7.0后SettingProvider ContactsProvider TelephonyProvider MediaProvider数据库位置
+http://blog.csdn.net/peng_cao/article/details/50887509 SettingsProvider
+http://blog.csdn.net/wzy_1988/article/details/50556113 Android5.0 Settings各个子模块跳转和布局实现\
+http://blog.csdn.net/niexu19900104/article/details/53026132 Android N Settings模块与Android M Settings模块差异
+http://blog.csdn.net/w690333243/article/details/78060863 android 7.0中Settings新功能全面解析
+
+http://blog.csdn.net/xyz_lmn/article/details/14222975 View Hierarcy
+ 
+https://mirrors.segmentfault.com/adchs/patterns/navigation.html
+
+http://blog.csdn.net/doris_d/article/details/52998237 SystemProperties
+
+http://gityuan.com/2017/01/15/wms_starting_window/
+
+http://blog.csdn.net/qian520ao/article/details/78089877 Android Binder之应用层总结与分析
+
+https://shensky711.coding.me/2016/11/15/fragment.html 
+
+https://segmentfault.com/a/1190000012227736 Android开发之漫漫长途 Ⅵ——图解Android事件分发机制
+https://www.jianshu.com/p/3bdeee756159
+
+http://blog.csdn.net/xmxkf/article/details/52457893  Activtiy完全解析（二、layout的inflate过程）
+
+http://blog.csdn.net/myfriend0/article/details/58587065 Android System Server大纲之ContentService和ContentProvider原理剖析
+http://blog.csdn.net/listening_music/article/details/7278227 Android中Service与Thread的区别
+https://www.zhihu.com/question/39717451 如何从技术上全面分析一款android app?
+
+http://www.cnblogs.com/Mainz/p/3546347.html 非阻塞同步算法与CAS(Compare and Swap)无锁算法
+
+www.processon.com 在线作图
+
+http://bxbxbai.github.io/2014/10/25/use-trace-view/ 正确使用Android性能分析工具——TraceView
+
+http://toughcoder.net/blog/2014/10/22/effective-android-ui-architecture/
+
+
+http://blog.csdn.net/hitlion2008/article/category/945580  Android Mms专题研究
+http://blog.csdn.net/t12x3456/article/details/9336019 Android 短信模块分析(二) MMS中四大组件核心功能详解
+http://blog.csdn.net/hitlion2008/article/details/7163477 Android Mms专题之:信息发送流程
+http://blog.csdn.net/u013226036/article/details/47804067 android短信模块详解--数据库
+http://www.cnblogs.com/caidi/archive/2013/03/02/2939713.html  sms接收流程（Java app）
+http://blog.csdn.net/ceko_wu/article/details/7798659 短信发送--短信发送流程--应用层
+http://blog.csdn.net/ceko_wu/article/details/7786432
+
+http://blog.csdn.net/dmk877/article/details/50387741 ContentProvider
+http://blog.csdn.net/luoshengyang/article/details/6963418
+http://liuwangshu.cn/
+http://liuwangshu.cn/framework/system-architecture.html
+
+http://www.codeceo.com/article/java-annotation-processor.html Java注解处理器使用详解
+
+https://zhuanlan.zhihu.com/p/25672779  Android开发时，那些相见恨晚的工具或网站！
