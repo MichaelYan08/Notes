@@ -1,3 +1,41 @@
+https://tech.meituan.com/mt-android-resource-obfuscation.html  美团Android资源混淆保护实践
+http://hanhailong.com/2015/12/28/Android%E8%BF%9B%E9%98%B6%E4%B9%8BProGuard%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86/  Android进阶之ProGuard代码混淆
+https://www.jianshu.com/p/60e82aafcfd0
+
+KeyEvent MotionEvent
+https://www.linuxidc.com/Linux/2011-11/47125.htm Android的frameworks层键盘事件处理流程分析
+http://zjmdp.github.io/2012/06/24/keyevent-dispatch-in-android/
+https://blog.csdn.net/hejjunlin/article/details/52335094
+
+
+https://www.jianshu.com/p/65605622234b TCP
+https://www.jianshu.com/u/383970bef0a0 arson_Ho
+https://www.jianshu.com/p/762b490403c3 Canvas
+
+https://www.jianshu.com/u/e347b97e2f0c 插件化
+
+
+https://blog.csdn.net/nemo__/article/details/53509424 【Android源码-AMS】(五) TaskRecord
+
+https://my.oschina.net/coorchice/blog
+
+https://blog.csdn.net/niu_gao/article/details/8533126 一步一步学android OpenGL ES2.0编程（1）
+http://www.learnopengles.com
+https://blog.csdn.net/junzia/article/category/6462864
+
+https://juejin.im/post/5acac7375188255c93239124 Android：Retrofit 2.0 使用攻略（含实例讲解）
+
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html OkHttp使用教程
+http://frodoking.github.io/2015/03/12/android-okhttp/ OKHttp源码解析
+https://blog.piasy.com/2016/08/04/Understand-Okio/
+https://www.jianshu.com/p/9a8283171de4 OkHttp 3.7源码分析（一）——整体架构
+
+http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/#holo-themes 
+https://android-libs.com/ 
+https://www.simform.com/top-resources-to-learn-android/
+
+https://www.jianshu.com/u/8b9c629f69dd
+
 http://www.jianshu.com/p/5ad013eb5364?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 http://www.jianshu.com/p/415a32976cc6 Android开发之Activity转场动画
 http://blog.csdn.net/guolin_blog/article/details/47028975 Android Context完全解析，你所不知道的Context的各种细节
@@ -7,7 +45,6 @@ http://www.open-open.com/lib/view/open1328069889514.html Git详解之三 Git分�
 
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0418/4158.html 关于 Android 进程保活，你所需要知道的一切
  
-Android使用Fragment来实现ViewPager的功能 http://www.cnblogs.com/tiantianbyconan/p/3364728.html
 http://blog.csdn.net/loongggdroid/article/details/9385535 Android中ListView下拉刷新的实现
 http://blog.csdn.net/u012124438
 
@@ -37,6 +74,8 @@ http://blog.csdn.net/lfdfhl/article/details/51671038 推翻自己和过往，重
 http://blog.csdn.net/luoshengyang/article/details/8372924 Android应用程序窗口（Activity）的测量（Measure）、布局（Layout）和绘制（Draw）过程分析
 
 https://www.jianshu.com/u/6e4c6553a7f9 stay4it
+
+https://blog.csdn.net/smxueer/article/details/52402483
 
 http://flavienlaurent.com/blog/2014/01/31/spans/ span
 https://segmentfault.com/a/1190000006186341
@@ -68,6 +107,9 @@ http://gityuan.com/2017/01/15/wms_starting_window/
 http://blog.csdn.net/qian520ao/article/details/78089877 Android Binder之应用层总结与分析
 
 https://shensky711.coding.me/2016/11/15/fragment.html 
+https://www.jianshu.com/p/662c46cd3b5f Fragment你真的熟悉吗？看了才知道
+https://blog.csdn.net/zhaoyw2008/article/details/45854825  Fragment 本质探究
+https://zhuanlan.zhihu.com/p/20660984 Android 坑档案：背黑锅的 Fragment
 
 https://segmentfault.com/a/1190000012227736 Android开发之漫漫长途 Ⅵ——图解Android事件分发机制
 https://www.jianshu.com/p/3bdeee756159
