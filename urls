@@ -1,23 +1,49 @@
 https://tech.meituan.com/mt-android-resource-obfuscation.html  美团Android资源混淆保护实践
 http://hanhailong.com/2015/12/28/Android%E8%BF%9B%E9%98%B6%E4%B9%8BProGuard%E4%BB%A3%E7%A0%81%E6%B7%B7%E6%B7%86/  Android进阶之ProGuard代码混淆
 https://www.jianshu.com/p/60e82aafcfd0
+ 
+https://zhuanlan.zhihu.com/p/24393775?refer=hinus IO
+https://www.zhihu.com/question/32163005/answer/55772739
+http://www.importnew.com/24794.html
+
+https://blog.csdn.net/column/details/13297.html https://blog.csdn.net/column/details/13297.html
+
+http://benweizhu.github.io/blog/categories/gradleshen-ru-yu-shi-zhan/ Gradle深入与实战
+
+http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/  从零开始的Android新项目1 - 架构搭建篇
 
 KeyEvent MotionEvent
 https://www.linuxidc.com/Linux/2011-11/47125.htm Android的frameworks层键盘事件处理流程分析
 http://zjmdp.github.io/2012/06/24/keyevent-dispatch-in-android/
 https://blog.csdn.net/hejjunlin/article/details/52335094
 
+https://blog.csdn.net/hnulwt/article/details/42774015
 
+http://paulgraham.com/articles.html
+
+http://www.cnblogs.com/Ixia/p/3917675.html 最短路径算法——Dijkstra,Bellman-Ford,Floyd-Warshall,Johnson
+http://www.cnblogs.com/daoluanxiaozi/archive/2012/05/30/2527162.html 【图论】信手拈来的Prim，Kruskal和Dijkstra
+
+https://coolshell.cn/articles/11609.html TCP那些事
+https://www.jianshu.com/p/0cf648510bce
+http://www.cnblogs.com/lshs/p/6038477.html ISN,IP欺骗
+
+http://imweb.io/topic/5795dcb6fb312541492eda8c HTTP缓存控制小结
+
+https://www.jianshu.com/p/fb4dfab4eec1 
 https://www.jianshu.com/p/65605622234b TCP
 https://www.jianshu.com/u/383970bef0a0 arson_Ho
 https://www.jianshu.com/p/762b490403c3 Canvas
 
 https://www.jianshu.com/u/e347b97e2f0c 插件化
 
+https://blog.csdn.net/kc58236582/article/details/53186104
+https://blog.csdn.net/kc58236582/article/details/53187485 Android资源管理框架（二）AssetManager创建过程
 
+https://www.jianshu.com/p/c793a279f698 IP
+
+https://blog.csdn.net/mwq384807683/article/details/72529285 android面试题-ActivityRecord TaskRecord和ProcessRecord之间的关系
 https://blog.csdn.net/nemo__/article/details/53509424 【Android源码-AMS】(五) TaskRecord
-
-https://my.oschina.net/coorchice/blog
 
 https://blog.csdn.net/niu_gao/article/details/8533126 一步一步学android OpenGL ES2.0编程（1）
 http://www.learnopengles.com
@@ -25,8 +51,13 @@ https://blog.csdn.net/junzia/article/category/6462864
 
 https://juejin.im/post/5acac7375188255c93239124 Android：Retrofit 2.0 使用攻略（含实例讲解）
 
+https://blog.dreamtobe.cn/looper/
+
+https://github.com/lingochamp/FileDownloader
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html OkHttp使用教程
 http://frodoking.github.io/2015/03/12/android-okhttp/ OKHttp源码解析
+https://yq.aliyun.com/articles/78105 OkHttp 3.7源码分析（一）——整体架构
+https://blog.dreamtobe.cn/okhttp3-framework/
 https://blog.piasy.com/2016/08/04/Understand-Okio/
 https://www.jianshu.com/p/9a8283171de4 OkHttp 3.7源码分析（一）——整体架构
 
@@ -40,15 +71,12 @@ http://www.jianshu.com/p/5ad013eb5364?utm_campaign=maleskine&utm_content=note&ut
 http://www.jianshu.com/p/415a32976cc6 Android开发之Activity转场动画
 http://blog.csdn.net/guolin_blog/article/details/47028975 Android Context完全解析，你所不知道的Context的各种细节
 http://www.androidchina.net/5384.html 移动客户端中高效使用 SQLite
-https://yq.aliyun.com/articles/67264?spm=5176.8246799.0.0.fhATwk 四件套，让PPT演示更带感
 http://www.open-open.com/lib/view/open1328069889514.html Git详解之三 Git分支
 
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0418/4158.html 关于 Android 进程保活，你所需要知道的一切
  
 http://blog.csdn.net/loongggdroid/article/details/9385535 Android中ListView下拉刷新的实现
 http://blog.csdn.net/u012124438
-
-https://www.tuicool.com/articles/MjAjIfU 使用WindowManager添加View——悬浮窗口的基本原理
 
 http://blog.csdn.net/liuqinqpiaoyi/article/details/78426684  Android 7. 1 DeskClock（一）AlarmClockFragment分析
 
@@ -60,7 +88,7 @@ http://www.cnblogs.com/jimwind/archive/2012/09/11/2679810.html Android 源码阅
 
 https://www.jianshu.com/p/0af52be90ae6
 http://blog.csdn.net/wuyuxing24/article/details/78857912 Transition
-http://qkxue.net/info/153431/Innost-Android-ViewRoot 跟着Innost理解下Android控件（ViewRoot）系统
+https://blog.csdn.net/dkphenix/article/details/52945087 跟着Innost理解下Android控件（ViewRoot）系统
 http://gityuan.com/2017/04/16/activity-with-window/ 简述Activity与Window关系
 http://www.cnblogs.com/xiaoweiz/p/3803301.html KeyEvent
 http://www.cnblogs.com/xiaoweiz/p/3733272.html SharedPreference
@@ -105,6 +133,9 @@ http://blog.csdn.net/doris_d/article/details/52998237 SystemProperties
 http://gityuan.com/2017/01/15/wms_starting_window/
 
 http://blog.csdn.net/qian520ao/article/details/78089877 Android Binder之应用层总结与分析
+https://blog.csdn.net/21cnbao/article/category/1066235
+https://juejin.im/post/5a5df495f265da3e3a6dcd8e
+https://juejin.im/user/574e3ff35bbb500057b708b2/posts
 
 https://shensky711.coding.me/2016/11/15/fragment.html 
 https://www.jianshu.com/p/662c46cd3b5f Fragment你真的熟悉吗？看了才知道
@@ -129,6 +160,11 @@ http://bxbxbai.github.io/2014/10/25/use-trace-view/ 正确使用Android性能分
 http://toughcoder.net/blog/2014/10/22/effective-android-ui-architecture/
 
 
+https://www.jb51.net/article/79838.htm Android开发中使用mms模块收发单卡和双卡短信的教程
+http://www.cnblogs.com/flyme/p/4538002.html Android 5.0 双卡信息管理分析
+http://www.cnblogs.com/URB0911/p/5680876.html 基于Android4.4 + 联芯L1860平台的短彩双卡方案 ---- (2) 彩信收发机能
+http://www.xuebuyuan.com/1798846.html [mtk6572源码解析]ISms.aidl 生成的源码 和 SmsManagerEx 中被调用到的函数
+https://blog.csdn.net/duanlove/article/details/9499539 [android] framework gemini 详解
 http://blog.csdn.net/hitlion2008/article/category/945580  Android Mms专题研究
 http://blog.csdn.net/t12x3456/article/details/9336019 Android 短信模块分析(二) MMS中四大组件核心功能详解
 http://blog.csdn.net/hitlion2008/article/details/7163477 Android Mms专题之:信息发送流程
@@ -145,3 +181,17 @@ http://liuwangshu.cn/framework/system-architecture.html
 http://www.codeceo.com/article/java-annotation-processor.html Java注解处理器使用详解
 
 https://zhuanlan.zhihu.com/p/25672779  Android开发时，那些相见恨晚的工具或网站！
+
+https://blog.csdn.net/zhuzp_blog/article/details/51674468 导入framework.jar
+http://ask.android-studio.org/?/article/28
+
+ 进程生命周期
+Android系统将尽量长时间地保持应用进程，但为了新建进程或运行更重要的进程，最终需要清除旧进程来回收内存。 为了确定保留或终止哪些进程，系统会根据进程中正在运行的组件以及这些组件的状态，将每个进程放入“重要性层次结构”中。 必要时，系统会首先消除重要性最低的进程，然后是清除重要性稍低一级的进程，依此类推，以回收系统资源。
+
+进程的重要性，划分5级：
+
+前台进程(Foreground process)
+可见进程(Visible process)
+服务进程(Service process)
+后台进程(Background process)
+空进程(Empty process)
